@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is D6EF-2819
+
+ Directory of C:\Users\rcakh\OneDrive\Desktop\My Project
+
+05/27/2022  06:28 PM    <DIR>          .
+05/27/2022  06:24 PM    <DIR>          ..
+05/27/2022  06:28 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  48,514,596,864 bytes free
